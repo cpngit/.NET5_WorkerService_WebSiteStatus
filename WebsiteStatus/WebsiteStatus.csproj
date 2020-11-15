@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Worker">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>dotnet-WebsiteStatus-5851CE0C-C09C-4E38-9E71-D088620C686C</UserSecretsId>
   </PropertyGroup>
 
